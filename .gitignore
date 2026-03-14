@@ -1,0 +1,14 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+terraform.tfvars.json
+.terraform.tfstate
+.terraform.tfstate.backup
+.vscode/
+.idea/
+*.log
+__pycache__/
+*.pyc
+*.swp
+/.terraform
